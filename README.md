@@ -2,7 +2,122 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Salut%2C+je+suis+Mitia;D%C3%A9veloppeur+Full+Stack+passionn%C3%A9;Bienvenue+sur+mon+profil+!" alt="Typing SVG" />
 </div>
 
+<p align="center"><div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2D5BE3&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Bienvenue+sur+mon+profil+GitHub;D%C3%A9veloppeur+Full+Stack;Expert+en+solutions+web+et+mobiles" alt="Typing SVG" />
+</div>
+
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FimiAnjara&label=Vues+du+profil&color=2D5BE3&style=flat" alt="Profile views" />
+</p>
+
+<div align="center">
+  <img src="https://github.com/FimiAnjara/FimiAnjara/blob/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 👨‍💻 Profil Professionnel
+
+Développeur Full Stack spécialisé dans la conception et le développement d'applications web et mobiles performantes. Mon expertise couvre l'ensemble du cycle de développement, du frontend au backend, en passant par l'architecture des bases de données et le déploiement.
+
+**Spécialisations principales :**
+- Architecture logicielle et développement backend robuste
+- Applications web dynamiques avec frameworks modernes
+- Solutions mobiles hybrides et cross-platform
+- Conception d'API RESTful et microservices
+
+**Valeur ajoutée :**
+- Forte capacité d'adaptation aux nouvelles technologies
+- Approche orientée vers les solutions et l'optimisation
+- Sens aigu du détail et de la qualité du code
+- Collaboration efficace en équipe agile
+
+---
+
+## 🛠️ Stack Technologique
+
+### **Langages de Programmation**
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</p>
+
+### **Frontend & Mobile**
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### **Backend & Frameworks**
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
+
+### **Bases de Données**
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+
+### **Outils & DevOps**
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+---
+
+## 📈 Métriques GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FimiAnjara&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" alt="Statistiques GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FimiAnjara&layout=compact&theme=algolia&hide_border=true" alt="Langages les plus utilisés" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FimiAnjara&theme=algolia&hide_border=true" alt="Série de contributions" />
+</div>
+
+---
+
+## 🚀 Projets Significatifs
+
+### **Applications Web Complètes**
+| Projet | Description | Technologies |
+|--------|-------------|--------------|
+| **LalantsikaWeb** | Application web dynamique full-stack avec gestion de contenu en temps réel | JavaScript, Node.js, MongoDB |
+| **P17-ETU003263** | Application d'entreprise avec architecture MVC et authentification avancée | Java Servlets, JSP, MySQL |
+| **Sprint Framework** | Framework web personnalisé développé pour optimiser le développement Java | Java, Reflection, Annotation |
+
+### **Solutions Backend & API**
+| Projet | Description | Technologies |
+|--------|-------------|--------------|
+| **Serveur HTTP Noel** | Serveur HTTP léger et performant développé en PHP natif | PHP, Sockets, HTTP Protocol |
+| **Bibliotheque API** | Système de gestion de bibliothèque avec API RESTful | Spring Boot, PostgreSQL, JWT |
+
+### **Applications Innovantes**
+| Projet | Description | Technologies |
+|--------|-------------|--------------|
+| **ChessPingPong** | Jeu hybride combinant échecs et mécaniques de jeu originales | Python, PyGame, Algorithmes |
+| **Mobile App Template** | Template d'application mobile cross-platform | Ionic, Angular, Capacitor |
+
+---
+
+## 📂 Organisation des Répertoires
+
   <img src="https://komarev.com/ghpvc/?username=FimiAnjara&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
