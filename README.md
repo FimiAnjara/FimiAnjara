@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Salut, je suis FimiAnjara</h1>
-  <h3>Développeur Full Stack passionné</h3>
+  <h1>👋 Salut, je suis Mitia</h1>
+  <h3>Développeur Full Stack passionnée</h3>
 </div>
 
 <p align="center">
